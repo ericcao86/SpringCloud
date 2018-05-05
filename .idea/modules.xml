@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloud/CloudClient/CloudClient.iml" filepath="$PROJECT_DIR$/../SpringCloud/CloudClient/CloudClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloud/CloudServer/CloudServer.iml" filepath="$PROJECT_DIR$/../SpringCloud/CloudServer/CloudServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud.iml" filepath="$PROJECT_DIR$/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloud/feign/feign.iml" filepath="$PROJECT_DIR$/../SpringCloud/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloud/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/../SpringCloud/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloud/zuul/zuul.iml" filepath="$PROJECT_DIR$/../SpringCloud/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
