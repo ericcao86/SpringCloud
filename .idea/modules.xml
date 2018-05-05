@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../SpringCloud/CloudClient/CloudClient.iml" filepath="$PROJECT_DIR$/../SpringCloud/CloudClient/CloudClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SpringCloud/CloudServer/CloudServer.iml" filepath="$PROJECT_DIR$/../SpringCloud/CloudServer/CloudServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud.iml" filepath="$PROJECT_DIR$/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloud/config-server/config-server.iml" filepath="$PROJECT_DIR$/../SpringCloud/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SpringCloud/feign/feign.iml" filepath="$PROJECT_DIR$/../SpringCloud/feign/feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SpringCloud/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/../SpringCloud/ribbon/ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SpringCloud/zuul/zuul.iml" filepath="$PROJECT_DIR$/../SpringCloud/zuul/zuul.iml" />

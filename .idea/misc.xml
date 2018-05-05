@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/../SpringCloud/ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/../SpringCloud/feign/pom.xml" />
         <option value="$PROJECT_DIR$/../SpringCloud/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringCloud/config-server/pom.xml" />
       </list>
     </option>
   </component>

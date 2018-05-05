@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CloudClient" />
         <module name="CloudServer" />
+        <module name="config-server" />
         <module name="feign" />
         <module name="ribbon" />
         <module name="SpringCloud" />
@@ -17,6 +18,7 @@
     <bytecodeTargetLevel>
       <module name="CloudClient" target="1.8" />
       <module name="CloudServer" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="feign" target="1.8" />
       <module name="ribbon" target="1.8" />
       <module name="SpringCloud" target="1.8" />
